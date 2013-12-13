@@ -1,0 +1,4 @@
+vocab
+=====
+
+Vocabulário ortográfico
