@@ -26,7 +26,7 @@ def baixar(prefixo):
         data = yield from response.read()
         html = data.decode('cp1252')
         lista, continua = extrair(html)
-        if 1 or lista:
+        if lista:
             sufixo = '-' if continua else ''
             os.makedirs('data/' + letra, exist_ok=True)
             nome_arq = 'data/%s/%s%s.json' % (letra, prefixo, sufixo)
@@ -60,7 +60,8 @@ def extrair(html) -> (list, bool):
 
 
 def principal():
-    from vocab_passo2 import gerar_prefixos
+    #from vocab_passo2 import gerar_prefixos
+    from vocab_passo4 import gerar_prefixos
     tarefas = []
     """
     for prefixo in [c1+c2+c3 for c1 in string.ascii_lowercase

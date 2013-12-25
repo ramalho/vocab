@@ -1,0 +1,59 @@
+data2/a/agua-.json
+	água-vai interj.
+		- água-vermelha s.f.; pl. águas-vermelhas
+		- água-viva s.f.; pl. águas-vivas
+	+ aguabresa s.f.
+
+data2/b/bio-.json
+	bio-historiador s.m.
+		- bio-histórico adj.
+	+ bioacumulação s.f.
+
+data2/c/capim-.json
+	capim-foice s.m.; pl. capins-foice e capins-foices
+		- capim-forquilha s.m.; pl. capins-forquilha e capins-forquilhas
+		- capim-frecha s.m.; pl. capins-frecha e capins-frechas
+	+ capimbeba s.m.
+
+data2/c/cipo-.json
+	cipó-titora s.m.; pl. cipós-titora e cipós-titoras
+		- cipó-tracuá s.m.; pl. cipós-tracuá e cipós-tracuás
+		- cipó-três-quinas s.m.; pl. cipós-três-quinas
+		- cipó-trindade s.m.; pl. cipós-trindade e cipós-trindades
+		- cipó-tripa-de-galinha s.m.; pl. cipós-tripa-de-galinha e cipós-tripas-de-galinha
+		- cipó-tucunaré s.m.; pl. cipós-tucunaré e cipós-tucunarés
+	+ cipoaba s.m.
+
+data2/e/erva-.json
+	erva-doce-bastarda s.f.; pl. ervas-doces-bastardas
+		- erva-do-chá s.f.; pl. ervas-do-chá
+		- erva-do-charrua s.f.; pl. ervas-do-charrua
+		- erva-do-colégio s.f.; pl. ervas-do-colégio
+		- erva-do-diabo s.f.; pl. ervas-do-diabo
+		...
+		- erva-elefante s.f.; pl. ervas-elefante e ervas-elefantes
+		...
+	+ ervaca s.f.
+
+data2/o/oxi-.json
+	oxi-hidrila (cs) s.f.
+		- oxi-hidrocefalia (cs) s.f.
+		- oxi-hidrocefálico (cs) s.f.
+	+ oxiacantina (cs) s.f.
+
+data2/p/papa-.json
+	papa-roxo s.m.; pl. papa-roxos
+		- papa-santos s.2g.2n.
+		- papa-sebo s.2g. s.m.; pl. papa-sebos
+		- papa-sururu s.2g.; pl. papa-sururus
+	+ papaconha s.f.
+
+data2/p/pau-.json
+	pau-de-bicho s.m.; pl. paus-de-bicho
+		- pau-de-bilros s.m.; pl. paus-de-bilros
+		- pau-de-boás s.m.; pl. paus-de-boás
+		- pau-de-boia (ó) s.m.; pl. paus-de-boia
+		...
+		- pau-dos-olhos s.m.; pl. paus-dos-olhos
+
+	+ paual s.m.
